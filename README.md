@@ -17,6 +17,6 @@ Calculadora com interface gráfica desenvolvida em Python, utilizando a bibliote
 
 ## Autor
 
-Maryana Alves
-Email: maryalvespro@gmail.com
-GitHub: [https://github.com/MaryanaAlves](https://github.com/MaryanaAlves)
+Maryana Alves  
+Email: maryalvespro@gmail.com  
+GitHub: [https://github.com/MaryanaAlves](https://github.com/MaryanaAlves)  
